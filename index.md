@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Bievenido a la Guía de git y Github del Proyecto Coding-Adventure-UNJBG
 
-You can use the [editor on GitHub](https://github.com/Coding-Adventure-UNJBG/DocumentationGit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+La presente documentación tiene como finalidad ser una guía de uso del Sofware de control de versiones de Código [**Git**](https://git-scm.com/) y el servidor remoto de control de versiones [**GitHub**](https://github.com/)
 
-### Markdown
+### Instalación y Configuración
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Para hacer uso de la presente guía debe de tener instalado los software necesarios: VS-Code y Git.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Mi primir contacto con la consola de Unix
 
-- Bulleted
-- List
+- ¿Qué es una consola? y comando mas usados
+- ¿Qué es vim y para que sirve?
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Iniciando con Git
 
-[Link](url) and ![Image](src)
-```
+- Configuración de Entorno
+- ¿Qué es un repositorio?
+- Mi Primir Commit
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Branch en Git
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coding-Adventure-UNJBG/DocumentationGit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- ¿qué es una rama en Git?
+- Mi primera rama
+- ¿Por qué debemos trabajar con ramas?
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Herramientas de Git
+
+- Git show
+- Git diff
+- Gitk
+
+
+### Git y Github
+
+- ¿Qué es github?
+- ¿Para qué sirve una llave SSH?
+- Mi primera llave SSH
+- Mi primer repositorio en la nube
+- Conectando mi repositorio loca con uno remoto
